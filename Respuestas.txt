@@ -1,0 +1,20 @@
+¿Por qué es	útil que buscarPokemon() y mostrarFicha() sean funciones separadas,
+ en	vez	de un solo bloque de código que haga todo junto?
+
+ Respuesta: Porque son funciones que dependen una de la otra, una se encarga de
+ buscar y obtener datos mientras que la otra muestra esos datos buscados de forma
+ ordenada y organizada
+
+
+- Elegí comparar a Snorlax y Machamp en attack porque ambos son Pokémon enfocados 
+   en el combate físico y el ataque es una estadística relevante para ellos.
+1. Elegí comparar a Snorlax y Machamp en `attack` porque ambos son Pokémon enfocados
+   en el combate físico y el ataque es una estadística relevante para ellos.
+
+- Comparé a Charizard y Blastoise en defense.
+2. Comparé a Charizard y Blastoise en `defense`.
+
+- Intenté comparar usando una estadística que no existe para comprobar que el programa 
+   mostrara el mensaje de error correspondiente.
+3. Intenté comparar usando una estadística que no existe para comprobar que el 
+   programa mostrara el mensaje de error correspondiente.
